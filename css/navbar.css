@@ -1,0 +1,17 @@
+.navbar {
+            text-decoration:none;
+
+}
+  .a{
+       text-decoration:none;
+        margin-right: 50px;
+font-size: 30px;
+  }
+  .a:hover {
+color: darkslategrey;
+  }
+  nav{
+        background-color: mediumpurple; 
+color: #fff;
+    
+  }
